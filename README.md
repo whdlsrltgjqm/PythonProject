@@ -28,6 +28,7 @@
    - **맵 디자인**: `Map 1`, `Map 2`, `Map 3`의 세 가지 맵이 존재하며, 각 맵은 고정된 장애물과 랜덤으로 생성되는 파워업을 포함합니다.
    - **장애물**: '1'로 표시된 장애물이 그리드에 배치되어 플레이어의 이동을 방해합니다.
    - **파워업**: '0' 위치에 5% 확률로 생성되는 파워업은 플레이어의 공격 범위를 증가시킵니다.
+<img src="https://github.com/user-attachments/assets/ee76dd8a-ced1-4f93-899e-f4afcbdb76ec" width = 300>
 ![map1](https://github.com/user-attachments/assets/ee76dd8a-ced1-4f93-899e-f4afcbdb76ec)
 ![map2](https://github.com/user-attachments/assets/70c3acca-4e91-4332-9bf1-4c1aa35d9096)
 ![map3](https://github.com/user-attachments/assets/2e2bae0d-dcec-4fdd-8425-556468495802)
